@@ -1,7 +1,6 @@
 # app-dev
 My first repository
-![Avengers: Endgame](![p_avengersendgame_19751_e14a0104](https://github.com/MGod13/app-dev/assets/134776186/2134fc5b-452c-4cb5-9c43-dbf3f325ce73)
-)
+![Avengers: Endgame](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmovies.disney.com%2Favengers-endgame&psig=AOvVaw2Caav2hNlhrnWFgmoxL9Hd&ust=1685269839043000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDXotGllf8CFQAAAAAdAAAAABAD)
 ## Avengers: Endgame
 **Avengers: Endgame is a 2019 superhero film directed by Anthony Russo and Joe Russo. It serves as the culmination of the Marvel Cinematic Universe's Infinity Saga. The movie follows the remaining Avengers as they attempt to reverse the devastating effects of Thanos' snap, which wiped out half of all life in the universe.**
 ### Main Characters
